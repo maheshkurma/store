@@ -1,0 +1,23 @@
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/application.rb:530)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/application.rb:530)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/application.rb:530)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/application.rb:530)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/application.rb:530)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/application.rb:530)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from validate_secret_key_config! at /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/application.rb:530)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from service at /Users/kurmamahesh/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/webrick/httpserver.rb:140)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from service at /Users/kurmamahesh/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/webrick/httpserver.rb:140)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from service at /Users/kurmamahesh/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/webrick/httpserver.rb:140)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from service at /Users/kurmamahesh/.rvm/rubies/ruby-2.3.7/lib/ruby/2.3.0/webrick/httpserver.rb:140)
+
+
+Started GET "/" for ::1 at 2018-10-31 23:54:00 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 27ms (Views: 15.2ms)
+
+
+Started GET "/" for ::1 at 2018-10-31 23:54:38 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/kurmamahesh/.rvm/gems/ruby-2.3.7/gems/railties-4.2.7.1/lib/rails/templates/rails/welcome/index.html.erb (0.2ms)
+Completed 200 OK in 8ms (Views: 5.3ms)
